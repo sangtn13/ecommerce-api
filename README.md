@@ -24,7 +24,7 @@ A production-ready RESTful API for e-commerce applications built with Node.js, E
 
 ## 📋 Prerequisites
 
-- Node.js 18+ and npm
+- Node.js 18+ and npm 
 - MongoDB (local or Atlas)
 - Redis (local or cloud)
 - Docker & Docker Compose
